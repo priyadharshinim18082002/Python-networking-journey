@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/HTTP server from scratch/HTTP server from scratch.iml" filepath="$PROJECT_DIR$/HTTP server from scratch/HTTP server from scratch.iml" />
       <module fileurl="file://$PROJECT_DIR$/Minimal TCP server/Minimal TCP server.iml" filepath="$PROJECT_DIR$/Minimal TCP server/Minimal TCP server.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Python-networking-journey.iml" filepath="$PROJECT_DIR$/.idea/Python-networking-journey.iml" />
     </modules>
